@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on my works
-- 📫 How to reach me : just open github.com web and search @ndangahertier
+- 📫 How to reach me : just open github.com web and search @ndanga
 
 <!---
 NdangaHeritier/NdangaHeritier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
