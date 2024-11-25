@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NdangaHeritier
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning it
-- 💞️ I’m looking to collaborate on my works
+- 💞️ I’m looking to collaborate on any open works
 - 📫 How to reach me : just open github.com web and search @ndanga
 
 <!---
