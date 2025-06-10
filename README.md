@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @NdangaHeritier
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning it
-- 💞️ I’m looking to collaborate on any open works
-- 📫 How to reach me : just open github.com web and search @ndanga
+# Hi, Am Ndanga.
+## a full stack software developer who develop only custom solutions that bring imagination to life
 
-<!---
-NdangaHeritier/NdangaHeritier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### some recommended open source projects.
+1. (formo)[https://GitHub.com/NdangaHeritier/formo/]
+2. (Projectoo)[https://github.com/NdangaHeritier/projectoo/]
