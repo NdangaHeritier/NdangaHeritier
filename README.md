@@ -1,6 +1,71 @@
-# Hi, Am Ndanga.
-## A full stack software developer who develop only custom solutions that bring imagination to life
+# Hi, I'm Ndanga Heritier
 
-### Some recommended open source projects.
-1. [formo](https://GitHub.com/NdangaHeritier/formo/)
-2. [Projectoo](https://github.com/NdangaHeritier/projectoo/)
+> Full Stack Software Developer
+
+✨ I build **custom-crafted digital tools** that turn imagination into interactive reality.
+
+---
+
+## 🧰 What I Do
+
+- 🔧 **Custom web apps** — built from scratch, pixel to backend
+- ⚙️ **Frontend-first development** — React, Next.js, Tailwind
+- 🧠 **Backend logic that scales** — Node.js, Express, MongoDB/PostgreSQL
+- 🧪 Clean code. Clever UX. Real solutions.
+
+I don’t do cookie-cutter. I build with purpose.
+
+---
+
+## 🌍 Some Projects I’ve Shipped
+
+### 🚀 [Projectoo](https://github.com/NdangaHeritier/projectoo)
+> An all-in-one productivity platform for devs, writers, and doers.  
+Plan tasks, take notes, save snippets & links, write blogs — all in one tool.
+
+### 🧾 [Formo](https://github.com/NdangaHeritier/formo)
+> The minimalist form builder you didn’t know you needed.  
+Dynamic forms. Instant deployment. Clean design.
+
+---
+
+## 🔍 Currently Exploring
+- 🧩 Building faster dashboards with Next.js App Router
+- 🧠 Clean architecture patterns in JavaScript
+- ⚙️ Design systems and scalable UI components
+- 📚 Contributing to open source
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+> JavaScript / TypeScript / HTML / CSS / Python / PHP
+
+### Frameworks
+> ReactJS / Next.js / Node.js / Express / Laravel / Flask
+
+### Styling
+> Tailwind CSS / Styled Components / Bootstrap
+
+### Databases
+> MongoDB / MySQL / Fire Base / Supa Base / Pocket Base
+
+### Tools
+> Git / GitHub / VSCode 
+
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🧠 [My Web Page](https://ndanga-heritier.vercel.app)  
+- 🐦 [Twitter/X](https:/x.com/dev_ndanga)
+
+Or just drop a ⭐ on something if it helped you.
+
+---
+
+> _“Code is my language. Imagination is my compass.”_  
+> — Ndanga
