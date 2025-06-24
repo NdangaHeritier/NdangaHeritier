@@ -1,3 +1,6 @@
+
+![Banner](https://github.com/user-attachments/assets/3db6837a-babc-4e9f-9b26-ff399a93bb52)
+
 # Hi, I'm Ndanga Heritier
 
 > Full Stack Software Developer
