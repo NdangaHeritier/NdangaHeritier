@@ -62,9 +62,9 @@ Dynamic forms. Instant deployment. Clean design.
 
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 💼 [LinkedIn](https://linkedin.com/in/ndanga-heritier)  
 - 🧠 [My Web Page](https://ndanga-heritier.vercel.app)  
-- 🐦 [Twitter/X](https:/x.com/dev_ndanga)
+- 🐦 [Twitter/X](https:/x.com/ndanga_dev)
 
 Or just drop a ⭐ on something if it helped you.
 
