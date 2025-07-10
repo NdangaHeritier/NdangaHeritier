@@ -13,7 +13,7 @@
 
 - 🔧 **Custom web apps** — built from scratch, pixel to backend
 - ⚙️ **Frontend-first development** — React, Next.js, Tailwind
-- 🧠 **Backend logic that scales** — Node.js, Express, MongoDB/PostgreSQL
+- 🧠 **Backend logic that scales** — Node.js, Express, Laravel, MongoDB/MySQL/supabase/Firebase 
 - 🧪 Clean code. Clever UX. Real solutions.
 
 I don’t do cookie-cutter. I build with purpose.
